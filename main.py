@@ -5,4 +5,12 @@ import pandas as pd
 import datetime as dt
 import numpy as np 
 
+"""
+Create Bike Rental Class and initialize stock attribute
+"""
+
+
+
+
+
 
