@@ -32,7 +32,7 @@ class BikeRental:
     
 
 
-rental_bike = BikeRental(50)
+rental_bike = BikeRental(4)
 rental_bike.rent_bike_on_hourly_basis(5)
 rental_bike.display_stock()
 
